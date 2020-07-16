@@ -1,0 +1,6 @@
+# Ignore any export files
+*.json
+*.txt
+
+# Ignore IDE files
+.idea/
